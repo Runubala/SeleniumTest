@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+  
+  <groups>
+  
+  <!-- meta group -->
+       <!--  <define name="MycarplanTestCase">
+        <include name="regression"></include>
+  
+        </define>-->
+          
+         <run>
+           <include name="Groupingpratice"></include>
+           <exclude name = "regression"></exclude>
+            <!--<include name = "Window.*"></include>
+           <include name = "Linux.*"></include>-->
+           <!--  <include name = "MycarplanTestCase"></include>
+             <include name = "drug"></include>
+             <include name = "smoke"></include> -->
+            
+             
+             </run>
+       
+  
+  
+  </groups>
+    <classes>
+      <class name="com.nt.partice.GroupingDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
