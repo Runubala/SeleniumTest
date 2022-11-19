@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14536" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:14:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14536" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:14:00Z">
+      <class name="com.nt.testngDemo2.Demo2">
+        <test-method status="PASS" signature="DemoTestngFirst()[pri:0, instance:com.nt.testngDemo2.Demo2@7995092a]" name="DemoTestngFirst" duration-ms="10" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestngFirst -->
+        <test-method status="PASS" signature="DemoTestngFirst1()[pri:0, instance:com.nt.testngDemo2.Demo2@7995092a]" name="DemoTestngFirst1" duration-ms="1" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestngFirst1 -->
+        <test-method status="PASS" signature="DemoTestngFirst2()[pri:0, instance:com.nt.testngDemo2.Demo2@7995092a]" name="DemoTestngFirst2" duration-ms="1" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestngFirst2 -->
+      </class> <!-- com.nt.testngDemo2.Demo2 -->
+      <class name="com.nt.TestngDemo3.Demo3">
+        <test-method status="PASS" signature="DemoTestngSecond()[pri:0, instance:com.nt.TestngDemo3.Demo3@7fc2413d]" name="DemoTestngSecond" duration-ms="0" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestngSecond -->
+        <test-method status="PASS" signature="DemoTestngSecond1()[pri:0, instance:com.nt.TestngDemo3.Demo3@7fc2413d]" name="DemoTestngSecond1" duration-ms="1" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestngSecond1 -->
+        <test-method status="PASS" signature="DemoTestngSecond2()[pri:0, instance:com.nt.TestngDemo3.Demo3@7fc2413d]" name="DemoTestngSecond2" duration-ms="4" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestngSecond2 -->
+      </class> <!-- com.nt.TestngDemo3.Demo3 -->
+      <class name="com.nt.testng1.Demo1">
+        <test-method status="PASS" signature="DemoTestng()[pri:0, instance:com.nt.testng1.Demo1@f8c1ddd]" name="DemoTestng" duration-ms="14470" started-at="2022-09-17T14:13:46Z" finished-at="2022-09-17T14:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestng -->
+        <test-method status="PASS" signature="DemoTestng1()[pri:0, instance:com.nt.testng1.Demo1@f8c1ddd]" name="DemoTestng1" duration-ms="0" started-at="2022-09-17T14:14:00Z" finished-at="2022-09-17T14:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestng1 -->
+        <test-method status="PASS" signature="DemoTestng2()[pri:0, instance:com.nt.testng1.Demo1@f8c1ddd]" name="DemoTestng2" duration-ms="0" started-at="2022-09-17T14:14:00Z" finished-at="2022-09-17T14:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestng2 -->
+      </class> <!-- com.nt.testng1.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
